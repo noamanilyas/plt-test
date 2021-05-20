@@ -1,0 +1,10 @@
+[
+	{ "sku": "MOCK111", "type": "order", "qty": 10 },
+	{ "sku": "MOCK111", "type": "refund", "qty": 5 },
+	{ "sku": "MOCK111", "type": "order", "qty": 10 },
+	{ "sku": "MOCK222", "type": "order", "qty": 2 },
+	{ "sku": "MOCK222", "type": "refund", "qty": 10 },
+	{ "sku": "MOCK222", "type": "order", "qty": 3 },
+	{ "sku": "MOCK444", "type": "order", "qty": 10 },
+	{ "sku": "MOCK444", "type": "refund", "qty": 5 }
+]
